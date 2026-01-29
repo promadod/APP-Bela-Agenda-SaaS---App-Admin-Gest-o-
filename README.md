@@ -26,12 +26,13 @@ Aplicativo desenvolvido em **Flutter** para gestão completa de estabelecimentos
 <p align="center">
   <img src="screenshots/menu.jpeg" width="200" alt="Menu Principal">
   <img src="screenshots/financeiro.jpeg" width="200" alt="Financeiro e Extrato">
-  <img src="screenshots/dashboard.jpeg" width="200" alt="Home Page">
+  <img src="screenshots/configuracao.jpeg" width="200" alt="Configuração da Loja">
+  
 </p>
 
 <p align="center">
   <img src="screenshots/login.jpeg" width="200" alt="Login do app">
-  <img src="screenshots/configuracao.jpeg" width="200" alt="Configuração da Loja">
+  <img src="screenshots/dashboard.jpeg" width="200" alt="Home Page">
   <img src="screenshots/historico.jpeg" width="200" alt="Historico de agendamentos">
 </p>
 
