@@ -5,7 +5,7 @@ class ApiClient {
   // Para Windows ou iOS Simulator: use 'http://127.0.0.1:8000/api/'
   // Para Emulador Android: use 'http://10.0.2.2:8000/api/'
 
-  static const String baseUrl = 'http://192.168.11.144:8000/api/';
+  static const String baseUrl = 'https://oneiratech01.pythonanywhere.com/api/';
 
   final Dio dio = Dio(BaseOptions(
     baseUrl: baseUrl,
